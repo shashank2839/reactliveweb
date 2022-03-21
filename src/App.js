@@ -3,6 +3,7 @@ import Axios from "axios";
 import styled from "styled-components";
 import MovieComponent from "./components/MovieComponent";
 import MovieInfoComponent from "./components/MovieInfoComponent";
+import movie-icon from '/react-movie-app/movie-icon.svg';
 
 export const API_KEY = "b5314581";
 
